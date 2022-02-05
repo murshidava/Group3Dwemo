@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group3Dwemo", "Group3Dwemo\Group3Dwemo.csproj", "{B11713B2-C3A2-4467-9F32-5AF5CAFDFA87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11713B2-C3A2-4467-9F32-5AF5CAFDFA87}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B11713B2-C3A2-4467-9F32-5AF5CAFDFA87}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B11713B2-C3A2-4467-9F32-5AF5CAFDFA87}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B11713B2-C3A2-4467-9F32-5AF5CAFDFA87}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DFE6D5B-C1DB-42EF-9A58-988153DFF017}
+	EndGlobalSection
+EndGlobal
